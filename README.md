@@ -84,7 +84,7 @@ Only placeholders belong in `.env.example`. Never commit a populated `.env` file
 
 The complete private system additionally implements scheduled content generation, reposting between platforms, large-video delivery through a local Telegram Bot API, execution tracing, health checks and rollback-aware deployment.
 
-See the project in the [AI developer portfolio](https://d2-cinematic.abomohhorih.chatgpt.site/#work).
+See the project in the [AI developer portfolio](https://dim-2id.vercel.app/#work).
 
 ## Contact
 
